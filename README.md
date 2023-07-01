@@ -6,7 +6,7 @@
 This repository contains code for Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) implimentaion in Pytorch and intergrated with YOLOV8. 
 ## Dependencies
 
-The code was implemented with Python 3.10 in mind. the can be implemented when the particular requirements is fulfilled. The following dependencies are needed to run the tracker:
+The code was implemented with Python 3.10 in mind. can be implemented in other python until the particular requirements is fulfilled. The following dependencies are needed to run the tracker:
 
 
 * easydict
